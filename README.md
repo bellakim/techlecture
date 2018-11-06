@@ -1,5 +1,5 @@
 # Tech Lecture November 2016
-KU flight system team Git and Latex Lecture Remote Repository
+Git and Latex Lecture Remote Repository
 
 # Git 
 
